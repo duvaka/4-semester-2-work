@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/4-semester-2-work/static/css/main.ed9ad7f9.css",
+    "main.js": "/4-semester-2-work/static/js/main.2896258c.js",
+    "index.html": "/4-semester-2-work/index.html",
+    "main.ed9ad7f9.css.map": "/4-semester-2-work/static/css/main.ed9ad7f9.css.map",
+    "main.2896258c.js.map": "/4-semester-2-work/static/js/main.2896258c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed9ad7f9.css",
+    "static/js/main.2896258c.js"
+  ]
+}
